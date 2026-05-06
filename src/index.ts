@@ -20,5 +20,6 @@
 // Hint: Gunakan recursive function atau while loop
 
 // TODO: Jalankan fungsi main
+let a = 'belajar';
 console.log('Welcome to TypeScript To-Do App!');
 console.log('Start building your app here...');
